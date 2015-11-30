@@ -224,3 +224,4 @@ embark run
 - HashReg
 - NatSpec
 - Solidity
+- JavaScript API
